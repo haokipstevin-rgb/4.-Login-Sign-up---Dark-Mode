@@ -49,4 +49,5 @@ You can also adjust colors or shadows inside style.css.
 🧑‍🎨 Author
 
 Created by: Saiyonba
+
 UI Inspiration: [Ebolt / Dribbble design reference]
